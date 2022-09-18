@@ -1,0 +1,22 @@
+h1{
+    font-family: Gemini Moon ;
+    }
+    h2{
+    font-family : Dubai ;
+    color: black;
+    background-color: rgba(133, 46, 46, 0.651);
+    padding: 3px;
+    }
+    .menu {
+    text-align: center;
+    background-color: rgb(185, 67, 185) ;
+    font-size:18px;
+    padding-top: 16pt;
+    word-spacing: 6em;
+    }
+    .button {
+    text-decoration: none ;
+    }
+    .button:hover {
+    background-color:wheat; 
+    }
